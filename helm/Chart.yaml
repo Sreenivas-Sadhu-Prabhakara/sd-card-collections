@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-card-collections
+description: "BIAN Service Domain: Card Collections (Process pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Cards"
+  bian/asset-type: "Card Collection Case"
+  bian/control-record: "Card Collection Case Procedure"
